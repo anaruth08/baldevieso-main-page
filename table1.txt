@@ -1,0 +1,74 @@
+<html>
+<head>
+<title> </title>
+</head>
+
+<body>
+
+<p>
+<table border="1">
+<tr>
+	<td>row 1, cell 1</td>
+	<td>row 1, cell 2</td>
+</tr>
+<tr>
+	<td>row 2, cell 1</td>
+	<td>row 2, cell 2</td>
+</tr>
+
+</p>
+<p>
+<h4> A background color:</h4>
+<table border="1" bgcolor="yellow">
+
+<tr>
+	<th>Heading</th>
+	<th>Another Heading</th>
+<tr>
+	<td>row 1, cell 1</td>
+	<td>row 1, cell 2</td>
+</tr>
+<tr>
+	<td>row 2, cell 1</td>
+	<td>row 2, cell 2</td>
+</tr>
+</p>
+
+<p>
+<h4> A background color:</h4>
+<table border="1" background="c.jpg" cellpadding="10">
+ <tr>
+	<td> first </td>
+	<td> row </td>
+</tr>
+<tr>
+	<td> second </td>
+	<td> row </td>
+</tr>
+</p>
+<p>
+<h4> A background color:</h4>
+<table border="1" background="6a75d0bce2aec1cc809891f68c0645a3.png" cellspacing="12">
+ <tr>
+	<td> first </td>
+	<td> row </td>
+</tr>
+<tr>
+	<td> second </td>
+	<td> row </td>
+</tr>
+</p>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
